@@ -1,1 +1,1 @@
-# android_studio
+# crysto-app-android
