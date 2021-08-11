@@ -2,7 +2,7 @@
 **Android App for searching and view of cryptocurrency market (Android Oreo v8.0).**
 ***
 <div align="center">
-  <img src="https://github.com/BENJAMIN-1-WS/full_stack_crysto/blob/master/logo.png" width="350">
+  <img src="https://raw.githubusercontent.com/BENJAMIN-1-WS/full_stack_crysto/master/logo.png" width="350">
 </div>
 
 <div align="center">
