@@ -9,20 +9,23 @@
  <h1> Review</h1>
 </div>
 <h2>Search Activity</h2>
-<div>
-  <img src="https://raw.githubusercontent.com/BENJAMIN-1-WS/android_studio/master/review/Screenshot_1628671552.png" width="150">
-</div>
+
+<img src="https://raw.githubusercontent.com/BENJAMIN-1-WS/android_studio/master/review/Screenshot_1628671552.png" width="150">
+> Search for all types of currencies, good and fast API work.
+
 
 <h2>Graph Activity</h2>
-<div >
   <img src="https://raw.githubusercontent.com/BENJAMIN-1-WS/android_studio/master/review/Screenshot_1628671569.png" width="150">
-</div>
-<div align="center">
+> Graph display by time display is different by customer selection, good and fast API work.
+
+  
+
+ ***
+ <div align="center">
 :star::iphone:
-  </div>
-<div align="center">
+  
   
 [download for Android v8.0+](https://github.com/BENJAMIN-1-WS/android_studio/blob/master/APK/app-debug.apk)
 
-</div>
 
+ </div>
