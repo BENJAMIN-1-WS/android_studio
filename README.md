@@ -1,4 +1,4 @@
-# Welcome To Crysto App
+# Welcome To Crysto App 🪙
 **Android App for searching and view of cryptocurrency market (Android Oreo v8.0).**
 ***
 <div align="center">
